@@ -12,7 +12,8 @@ var link = document.createElement("link");
 link.type = "text/css";
 link.rel = "stylesheet";
 // link.href ="https://cdn.jsdelivr.net/gh/habibullaharafat23/https-carplaydiy.com-@b0e1a057b63778a164d41f541e7e3ca1e578c1ad/style.css";
-https://cdn.jsdelivr.net/gh/habibullaharafat23/ai-pioneers.nl@0085cfdfcf8bcebff94259c5f1bc6a8ae20e2f3b/style.css
+link.href ="https://cdn.jsdelivr.net/gh/habibullaharafat23/ai-pioneers.nl@0085cfdfcf8bcebff94259c5f1bc6a8ae20e2f3b/style.css";
+
 //link.href = "style.css";
 document.getElementsByTagName("head")[0].appendChild(link);
 
